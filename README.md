@@ -1,4 +1,4 @@
-Hi 👋 My name is Sanoob S
+Hi 👋 My name is Sanoob
 =========================
 
 Front End Developer
