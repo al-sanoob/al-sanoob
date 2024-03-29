@@ -4,7 +4,7 @@ Hi 👋 My name is Sanoob
 Front End Developer
 -------------------
 
-Hi there, I'm a front-end developer who loves creating stunning user interfaces for websites and applications. With 1 years of experience in web development, I have honed my skills in HTML, CSS, and JavaScript to design and develop engaging and intuitive user experiences.
+Hi there, I'm a front-end developer who loves creating stunning user interfaces for websites and applications. With 2 years of experience in web development, I have honed my skills in HTML, CSS, and JavaScript to design and develop engaging and intuitive user experiences.
 
 * 🌍  I'm based in Kerala 🌴
 * 🖥️  See my portfolio at [Sanoob.com](http://sanoobs.rf.gd/?i=1)
